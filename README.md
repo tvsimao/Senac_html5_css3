@@ -11,9 +11,10 @@ _________
 Flat colors -=- http://flatuicolors.com/ -=-
 __________
 ============================================================
-============================================================
 
 Links:
+
+http://html5doctor.com/ -=- todas as tags do HTML 5-=-
 
 http://www.w3schools.com/
 
@@ -42,7 +43,6 @@ http://jqapi.com/
 
 http://www.youtube.com/user/ricardolopescosta  -=- Universidade xti - no Youtube -=-
 
-============================================================
 ============================================================
 ________
 
