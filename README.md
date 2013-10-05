@@ -8,8 +8,8 @@ http://phonegap.com/ - compilar aplicativos para android e IOs em html e css
 
 CSS -=- zerar para todos os browsers -=- *{list-style;none;border:none; margin:0; padding:0;}
 _________
-
-
+Flat colors -=- http://flatuicolors.com/ -=-
+__________
 ============================================================
 
 Links:
