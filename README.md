@@ -17,6 +17,8 @@ http://loopinfinito.com.br/2013/07/30/ambient-light-events/
 
 http://strudelfolhadinho.com.br/
 
+http://validator.w3.org/ = Validador W3C - HTML
+
 
 =================
 Professor:
