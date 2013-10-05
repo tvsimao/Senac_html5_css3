@@ -5,5 +5,6 @@ Anotações e exercícios
 
 http://www.w3schools.com/
 
-http://www.github.com/tvsimao
-http://www.github.com/wbruno
+http://www.github.com/tvsimao/
+
+http://www.github.com/wbruno/
