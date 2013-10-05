@@ -2,6 +2,12 @@ Senac_html5_css3
 ================
 
 Anotações e exercícios
+_________
+
+
+============================================================
+
+Links:
 
 http://www.w3schools.com/
 
