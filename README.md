@@ -33,6 +33,15 @@ http://validator.w3.org/  -=- Validador W3C - HTML -=-
 http://jigsaw.w3.org/css-validator/  -=- Validador W3C - CSS -=-
 
 
+http://devdocs.io/
+
+http://jsbin.com/welcome/1/edit
+
+http://jqapi.com/
+
+http://www.youtube.com/user/ricardolopescosta  -=- Universidade xti - no Youtube -=-
+
+
 ________
 
 Professor:
