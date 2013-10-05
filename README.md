@@ -6,7 +6,7 @@ Anotações e exercícios
 http://phonegap.com/ - compilar aplicativos para android e IOs em html e css
 
 
-CSS= *{list-style;none;border:none; margin:0; padding:0;}
+CSS -=- zerar para todos os browsers -=- *{list-style;none;border:none; margin:0; padding:0;}
 _________
 
 
