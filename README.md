@@ -2,6 +2,8 @@ Senac_html5_css3
 ================
 
 Anotações e exercícios
+
+http://phonegap.com/ - compilar aplicativos para android e IOs em html e css
 _________
 
 
@@ -28,7 +30,8 @@ http://validator.w3.org/ = Validador W3C - HTML
 http://jigsaw.w3.org/css-validator/ = Validador W3C - CSS
 
 
-=================
+________
+
 Professor:
 William Bruno
 
@@ -37,6 +40,3 @@ wbrunom@gmail.com
 
 
 
-
-
-http://phonegap.com/ - compilar aplicativos para android e IOs em html e css
