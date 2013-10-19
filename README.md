@@ -7,12 +7,22 @@ http://phonegap.com/ - compilar aplicativos para android e IOs em html e css
 
 
 CSS -=- zerar para todos os browsers -=- *{list-style;none;border:none; margin:0; padding:0;}
+        
+        cor nas linhas da tabela = tr:nth-child(odd){ /* seletor pra linhas impares */
+                                   tr:nth-child(even){ /* seletor pra linhas pares */
+
+
+
+
+
 _________
 Flat colors -=- http://flatuicolors.com/ -=-
 __________
 ============================================================
 
 Links:
+
+http://www.jotform.com -=- editor de formulário
 
 http://html5doctor.com/ -=- todas as tags do HTML 5-=-
 
