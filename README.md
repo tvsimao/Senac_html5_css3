@@ -22,6 +22,8 @@ __________
 
 Links:
 
+https://github.com/necolas/normalize.css/blob/master/normalize.css -=- resetar o css da página - para pág grande -
+
 http://caniuse.com -=- se o navegador é compativel
 
 http://www.online-convert.com -=- conversor de vídeo
