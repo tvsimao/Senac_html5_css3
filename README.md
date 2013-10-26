@@ -22,6 +22,10 @@ __________
 
 Links:
 
+http://caniuse.com -=- se o navegador é compativel
+
+http://www.online-convert.com -=- conversor de vídeo
+
 http://www.jotform.com -=- editor de formulário
 
 http://html5doctor.com/ -=- todas as tags do HTML 5-=-
