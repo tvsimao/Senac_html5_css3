@@ -22,6 +22,10 @@ __________
 
 Links:
 
+http://css3generator.com/ -=- gerador de css3
+
+http://www.favicon.cc/? - criador de favicon
+
 https://github.com/necolas/normalize.css/blob/master/normalize.css -=- resetar o css da página - para pág grande -
 
 http://caniuse.com -=- se o navegador é compativel
