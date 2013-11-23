@@ -12,7 +12,9 @@ CSS -=- zerar para todos os browsers -=- *{list-style;none;border:none; margin:0
                                    tr:nth-child(even){ /* seletor pra linhas pares */
 
 
-
+_________
+css sprite
+_________
 
 
 _________
